@@ -1,0 +1,22 @@
+{
+  "name": "angular-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/streetguy911/angular-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/streetguy911/angular-problems/issues"
+  },
+  "homepage": "https://github.com/streetguy911/angular-problems#readme",
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
